@@ -1,0 +1,1 @@
+FROM minimal as locales

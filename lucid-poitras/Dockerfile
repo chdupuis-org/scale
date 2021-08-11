@@ -1,0 +1,1 @@
+FROM ruby:3.0.1-slim@sha256:3c0f26c0071ccdd6b5ab0c3ed615cd1f0cfd30b0039d1d5d7c2e70c66441e09a as image

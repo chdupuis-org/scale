@@ -1,0 +1,1 @@
+FROM gcr.io/istio-release/iptables@sha256:e8f940d0d0163ec4563ee070188c1d97308ac08f4a711152ff55f3a81e525140 as distroless

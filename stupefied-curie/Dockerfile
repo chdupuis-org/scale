@@ -1,0 +1,1 @@
+FROM paas/minimal:latest

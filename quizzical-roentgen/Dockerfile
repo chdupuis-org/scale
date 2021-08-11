@@ -1,0 +1,1 @@
+FROM quay.io/cilium/cilium-envoy:e83275091139101e7ff29284ef35c56f4cd6bfc3@sha256:3ae9ae3ca32eb30816c9e6a655dcb36e7ba4183c8c0c93ad58b72ad6c064aa0b as cilium-envoy

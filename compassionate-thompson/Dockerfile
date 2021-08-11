@@ -1,0 +1,1 @@
+FROM ansibleplaybookbundle/apb-base

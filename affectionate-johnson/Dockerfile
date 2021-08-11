@@ -1,0 +1,1 @@
+FROM secretless-dev:latest

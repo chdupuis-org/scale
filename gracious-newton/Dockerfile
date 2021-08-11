@@ -1,0 +1,1 @@
+FROM registry.centos.org/centos/centos:7

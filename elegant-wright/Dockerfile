@@ -1,0 +1,1 @@
+FROM gcr.io/distroless/static-debian10@sha256:912bd2c2b9704ead25ba91b631e3849d940f9d533f0c15cf4fc625099ad145b1 as distroless_source

@@ -1,0 +1,1 @@
+FROM mozillasecurity/grizzly:latest
