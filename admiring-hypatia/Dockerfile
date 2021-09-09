@@ -1,1 +1,1 @@
-FROM maven:3.6.3-jdk-8 AS jvmchaos_build
+FROM maven:3.6.3-jdk-8@sha256:ac624d39dd0b7bed827d4b0d1bbaeb457012e0cba0fb6c53ce34b00bed16ec08 AS jvmchaos_build
