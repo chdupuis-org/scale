@@ -1,1 +1,1 @@
-FROM golang:1.8 AS build
+FROM golang:1.8@sha256:f0b5dab7581eddb49dabd1d1b9aa505ca3edcdf79a66395b5bfa4f3c036b49ef AS build
