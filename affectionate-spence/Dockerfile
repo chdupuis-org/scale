@@ -1,1 +1,1 @@
-FROM --platform=amd64 tonistiigi/xx:golang AS goxx
+FROM tonistiigi/xx:golang@sha256:03e312d98f8db5a7adbf403882347ee4cb620a97bd445b0cfdc8e6b47d3b319c tonistiigi/xx:golang AS goxx
