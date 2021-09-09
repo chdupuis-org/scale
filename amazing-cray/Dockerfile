@@ -1,1 +1,1 @@
-FROM openvisualcloud/xeon-ubuntu1804-media-ffmpeg:latest
+FROM openvisualcloud/xeon-ubuntu1804-media-ffmpeg:latest@sha256:fb24c468db5b51665a67613c4596e772aa142b309039a36b9184a5df30e632d5
