@@ -1,1 +1,1 @@
-FROM mongo:4.0.19-xenial
+FROM mongo:4.0.19-xenial@sha256:425d81898e5a9d629d2ac783ecaed1940aa454607ae83fcefec95cfa70bbf2b2
