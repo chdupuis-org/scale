@@ -1,1 +1,1 @@
-FROM golang:1.15.2 AS build-golang
+FROM golang:1.15.2@sha256:4a79b86039051ee0c209f626c72f7aa1487ada24356ba0fef8302d1a9b152396 AS build-golang
