@@ -1,1 +1,1 @@
-FROM gcr.io/cloud-builders/go as build
+FROM gcr.io/cloud-builders/go:latest@sha256:8f11f70eea1aa3d3e1a96bc2312557155400e0390d224b7bb5d46d7d26cab083 as build
