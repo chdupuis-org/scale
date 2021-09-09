@@ -1,1 +1,1 @@
-FROM ruby:2-alpine
+FROM ruby:2-alpine@sha256:15a7a3caa6ad26a0559bcbebae0573ad2924b1e4813aad82a65ad1bd834992b7
