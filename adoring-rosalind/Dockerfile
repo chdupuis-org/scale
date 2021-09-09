@@ -1,1 +1,1 @@
-FROM ubuntu:14.04
+FROM ubuntu:14.04@sha256:43cb19408de1e0ecf3ba5b5372ec98978963d6d0be42d0ad825e77a3bd16b5f7
