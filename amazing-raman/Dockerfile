@@ -1,1 +1,1 @@
-FROM python:3.8.2-slim
+FROM python:3.8.2-slim@sha256:ed48f14994a6de2240f0b3a491f75a78b491010b45c1cfa16273022ae5408c61
